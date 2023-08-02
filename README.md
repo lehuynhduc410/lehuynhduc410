@@ -2,7 +2,7 @@
                                                                
                                                                
 - 👀 I’m interested in Web Dev 
-- 🌱 I’m currently learning Java/Js
+- 🌱 I’m currently learning Java/C#/Js
 - 📫 Contact me : lehuynhduc410@gmail.com
 
 
